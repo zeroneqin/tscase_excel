@@ -1,4 +1,4 @@
-package com.qinjun.autotest.tscase.tscase.exception;
+package com.qinjun.autotest.tscase.exception;
 
 public class TSCaseException extends Exception{
     public TSCaseException(String msg) {

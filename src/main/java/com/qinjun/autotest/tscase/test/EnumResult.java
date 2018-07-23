@@ -1,4 +1,4 @@
-package com.qinjun.autotest.tscase.tscase.test;
+package com.qinjun.autotest.tscase.test;
 
 import java.util.List;
 
